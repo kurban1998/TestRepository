@@ -1,0 +1,10 @@
+{
+  "Paths": {
+    "PathToRead": "..\\Read.txt",
+    "PathToWrite": "..\\Write.txt"
+  },
+
+  "Sheduler": {
+    "Time": "00:00:05"
+  }
+}
